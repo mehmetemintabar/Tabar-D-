@@ -9,7 +9,7 @@ A Python framework for determining the optimal outlier rate in 3D GNSS coordinat
 
 ## 📦 Requirements & Installation
 
-Ensure you have **Python 3.8+** installed. Install the required scientific and dependencies via `pip`:
+Ensure you have **Python 3.8+** installed. Install the required scientific packages and dependencies via `pip`:
 
 ```bash
 pip install numpy pandas matplotlib scipy statsmodels scikit-learn pyod openpyxl
