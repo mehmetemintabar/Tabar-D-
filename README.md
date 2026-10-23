@@ -51,9 +51,9 @@ results/
     ├── 04_decomposition_stacked.pdf         # Stacked bar breakdown of D² into M1², M2², and M3² (%)
     ├── 05_methods_landscape.pdf             # Trade-off scatter: % Data Removed vs. Tabar (D)
     ├── methods_diagnostics/
-    │   └── <Method>_diagnostic.pdf          # 4-page PDF: Direct/Collateral outliers, 3D/2D scatters & histograms
+    │   └── <Method>_diagnostic.pdf          # Direct/Collateral outliers, 3D/2D scatters & histograms
     └── methods_cleaned_timeseries/
-        └── <Method>_cleaned.pdf             # 2-page PDF: 3D and 2D spatial projections of inliers
+        └── <Method>_cleaned.pdf             # 3D and 2D spatial projections of inliers
 ```
 
 ---
