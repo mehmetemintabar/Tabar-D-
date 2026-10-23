@@ -3,7 +3,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A Python framework for determining the optimal outlier contamination rate and benchmarking anomaly detection algorithms in 3D GNSS coordinate time series using the multi-criteria **Tabar ($D$)** ideal signal distance metric.
+A Python framework for determining the optimal outlier rate and benchmarking anomaly detection algorithms in 3D GNSS coordinate time series using the multi-criteria **Tabar ($D$)** ideal signal distance metric.
 
 ---
 
