@@ -1,4 +1,4 @@
-# Tabar (D): Optimal Outlier & Contamination Rate Selection for GNSS Time Series
+# Tabar (D): Optimal Outlier Rate Selection for GNSS Time Series
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
