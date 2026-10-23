@@ -42,9 +42,9 @@ All statistical tables and publication-grade vector graphics (`.pdf`) are automa
 
 ```text
 results/
-├── all_stations_summary.xlsx                # Master workbook (ALL_STATIONS, PER-STATION TABS, DECOMPOSITION)
+├── all_stations_summary.xlsx                # Master workbook
 └── Station_<Name>/
-    ├── methods_summary.xlsx                 # Detailed metrics (RMS, STD, MAD, velocity, sigma, M1-M3, D)
+    ├── methods_summary.xlsx                 # Detailed metrics
     ├── 01_time_series_overview.pdf          # Raw mean-centered series vs. Huber detrended residuals
     ├── 02_contamination_sweep.pdf           # Tabar (D) optimization curves across c in [0.01, 0.35]
     ├── 03_distance_comparison.pdf           # Horizontal bar ranking of methods by Tabar (D)
