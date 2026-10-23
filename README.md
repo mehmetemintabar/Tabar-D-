@@ -7,14 +7,6 @@ A Python framework for determining the optimal outlier contamination rate and be
 
 ---
 
-## 🚀 Key Features
-
-- **Optimal Contamination Sweep ($c_{\text{opt}}$):**
-  - Performs an automated grid search across contamination rates $c \in [0.01, 0.35]$ ($\Delta c = 0.01$) for parametric and machine learning anomaly detectors.
-  - Identifies the optimal hyperparameter $c_{\text{opt}}$ that minimizes the composite **Tabar ($D$)** distance to the ideal noise floor.
-
----
-
 ## 📦 Requirements & Installation
 
 Ensure you have **Python 3.8+** installed. Install the required scientific and machine learning dependencies via `pip`:
