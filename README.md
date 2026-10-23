@@ -50,7 +50,7 @@ All statistical tables and publication-grade vector graphics (`.pdf`) are automa
 
 ```text
 results/
-├── all_stations_summary.xlsx                # Master workbook (ALL_STATIONS, per-station tabs, DECOMPOSITION)
+├── all_stations_summary.xlsx                # Master workbook (ALL_STATIONS, PER-STATION TABS, DECOMPOSITION)
 └── Station_<Name>/
     ├── methods_summary.xlsx                 # Detailed metrics (RMS, STD, MAD, velocity, sigma, M1-M3, D)
     ├── 01_time_series_overview.pdf          # Raw mean-centered series vs. Huber detrended residuals
