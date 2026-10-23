@@ -38,7 +38,7 @@ Run the main script to process all stations in `GNSS.xlsx`:
 python Tabar.py
 ```
 
-All statistical tables and publication-grade vector graphics (`.pdf`) are automatically exported to the `results/` directory:
+All statistical tables and vector graphics (`.pdf`) are automatically exported to the `results/` directory:
 
 ```text
 results/
